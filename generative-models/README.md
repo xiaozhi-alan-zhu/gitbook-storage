@@ -1,2 +1,0 @@
-# Bayesian Machine Learning Tools
-

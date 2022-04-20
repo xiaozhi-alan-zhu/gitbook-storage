@@ -1,8 +1,8 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Generative models](generative-models/README.md)
-  * [Variational Auto-Encoder](generative-models/variational-auto-encoder.md)
-  * [GAN](generative-models/gan.md)
-  * [Page 1](generative-models/page-1.md)
-  * [Page 2](generative-models/page-2.md)
+* [Generative models](bayesian-machine-learning-tools/README.md)
+  * [Variational Auto-Encoder](bayesian-machine-learning-tools/variational-auto-encoder.md)
+  * [GAN](bayesian-machine-learning-tools/gan.md)
+  * [Page 1](bayesian-machine-learning-tools/page-1.md)
+  * [Page 2](bayesian-machine-learning-tools/page-2.md)
