@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SUMMARY.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,12 +89,12 @@
   },
   "active": "9fc53a24cd620166",
   "lastOpenFiles": [
-    "SUMMARY.md",
     "README.md",
     "Generative Models/GAN.md",
     "Generative Models/README.md",
+    "Generative Models/variational-auto-encoder.md",
+    "SUMMARY.md",
     "bayesian-machine-learning-tools/page-1.md",
-    "bayesian-machine-learning-tools/page-2.md",
-    "Generative Models/variational-auto-encoder.md"
+    "bayesian-machine-learning-tools/page-2.md"
   ]
 }
