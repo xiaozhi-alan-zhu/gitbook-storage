@@ -4,3 +4,5 @@
 * [Generative models](Generative%20Models/README.md)
   * [Variational Auto-Encoder](variational-auto-encoder.md)
   * [GAN](GAN.md)
+* [Multitask Learning](Multitask%20Learning/README.md)
+* 
